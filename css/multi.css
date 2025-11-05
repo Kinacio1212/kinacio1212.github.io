@@ -27,7 +27,7 @@ video#filme {
     height: 240px;
 }
 
-.botao-link {
+.botao-link a {
   position: absolute;
   bottom: 10px;
   left: 50%;
@@ -38,3 +38,4 @@ video#filme {
   border-radius: 5px;
   text-decoration: none;
 }
+
